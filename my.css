@@ -1,0 +1,25 @@
+.top{
+    background-color: slategrey;
+    color: snow;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+}
+.top1{
+    color: snow;
+}
+.top2{
+    color: snow;
+    background-color:slategrey;
+}
+img{
+    justify-content: space-around;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.slider{
+    height: 50px;
+}
